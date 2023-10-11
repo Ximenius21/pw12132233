@@ -81,6 +81,7 @@ header nav ul li{
     width: 60%;
 }
 
+<<<<<<< HEAD
 #seccion01art02 ul{
     list-style: none;
 
@@ -88,6 +89,11 @@ header nav ul li{
 #seccion01art02 ul li:before{/*antes del texto*/
     color: #FF0099;
     content: "• ";
+=======
+#seccion01art02{
+    margin-left: 50px;
+    width: 30%;
+>>>>>>> 674661ec79ced7bff7d4a65436ceca6f77774ab4
 }
 
 #seccion03art04{
